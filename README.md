@@ -1,2 +1,3 @@
 # git_test1
-Restarted Odin with Mac
+Restarted Odin Project with Mac
+Hello Odin!
